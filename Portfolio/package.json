@@ -1,0 +1,26 @@
+{
+  "name": "azeem-dynamic-portfolio",
+  "version": "2.0.0",
+  "description": "Dynamic Data Analyst Portfolio with Vercel Serverless Functions and Admin Project Upload",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Ready for deployment'"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.0.0"
+  },
+  "keywords": [
+    "portfolio",
+    "data-analyst",
+    "serverless",
+    "vercel",
+    "powerbi",
+    "excel",
+    "sql"
+  ],
+  "author": "Mohd Azeem"
+}

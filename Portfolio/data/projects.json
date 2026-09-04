@@ -1,0 +1,44 @@
+[
+  {
+    "id": "proj-01",
+    "number": "01",
+    "title": "E-Commerce Sales Analysis",
+    "category": "Excel",
+    "emoji": "🛒",
+    "accentColor": "#34d399",
+    "description": "Built an interactive E-Commerce Sales Dashboard in Excel, analyzing revenue, orders, AOV, products, categories, cities, and sales channels. Transformed raw transaction logs into actionable business insights.",
+    "tools": ["Excel", "Pivot Tables", "Data Cleaning", "Formulas & Charts"],
+    "githubUrl": "https://github.com/mohdazeem7500/E-Commerce-Sales-Dashboard-Excel",
+    "demoUrl": "",
+    "featured": true,
+    "createdAt": "2025-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "proj-02",
+    "number": "02",
+    "title": "Paytm Quick-Commerce Dashboard",
+    "category": "Power BI",
+    "emoji": "⚡",
+    "accentColor": "#38bdf8",
+    "description": "Created interactive KPI dashboards for revenue, profit, and product performance tracking. Analyzed quick-commerce delivery patterns and identified top-performing product categories and regional sales drivers.",
+    "tools": ["Power BI", "DAX", "Data Modeling", "Excel"],
+    "githubUrl": "https://github.com/mohdazeem7500",
+    "demoUrl": "",
+    "featured": true,
+    "createdAt": "2025-02-10T00:00:00.000Z"
+  },
+  {
+    "id": "proj-03",
+    "number": "03",
+    "title": "Customer Segmentation & Retention",
+    "category": "SQL",
+    "emoji": "📈",
+    "accentColor": "#a78bfa",
+    "description": "Extracted and transformed customer transactional records using complex SQL queries, window functions, and aggregations to classify customers by RFM scores (Recency, Frequency, Monetary).",
+    "tools": ["SQL", "PostgreSQL", "Data Transformation", "RFM Analysis"],
+    "githubUrl": "https://github.com/mohdazeem7500",
+    "demoUrl": "",
+    "featured": true,
+    "createdAt": "2025-03-01T00:00:00.000Z"
+  }
+]
